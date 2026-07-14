@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "updated": "2026-07-14",
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "Check in with Olivia — KB progress for System 7 migration",
+      "workspace": "desktop-ops",
+      "project": "System 7 Migration",
+      "status": "todo",
+      "priority": "P1",
+      "estimate_mins": 15,
+      "due": "2026-07-15",
+      "scheduled": "2026-07-14",
+      "waiting_on": null,
+      "notes": "KB must be Fin-ready before migrated users start hitting support.",
+      "created": "2026-07-14"
+    },
+    {
+      "id": "t2",
+      "title": "Draft System 7 user migration comms plan",
+      "workspace": "desktop-marketing",
+      "project": "System 7 Migration",
+      "status": "todo",
+      "priority": "P2",
+      "estimate_mins": 90,
+      "due": "2026-07-17",
+      "scheduled": null,
+      "waiting_on": null,
+      "notes": "Sample task — edit or delete.",
+      "created": "2026-07-14"
+    },
+    {
+      "id": "t3",
+      "title": "NC: invoice run + follow up outstanding payments",
+      "workspace": "naturally-creative",
+      "project": "Admin",
+      "status": "todo",
+      "priority": "P2",
+      "estimate_mins": 45,
+      "due": null,
+      "scheduled": null,
+      "waiting_on": null,
+      "notes": "Sample task — edit or delete.",
+      "created": "2026-07-14"
+    },
+    {
+      "id": "t4",
+      "title": "Training session (see Roots plan)",
+      "workspace": "personal",
+      "project": "Health",
+      "status": "todo",
+      "priority": "P1",
+      "estimate_mins": 60,
+      "due": null,
+      "scheduled": "2026-07-14",
+      "waiting_on": null,
+      "notes": "Morning block. Non-negotiable.",
+      "created": "2026-07-14"
+    }
+  ]
+}

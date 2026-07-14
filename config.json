@@ -1,0 +1,21 @@
+{
+  "owner": "Matt",
+  "timezone": "Australia/Sydney",
+  "workspaces": [
+    { "id": "desktop-ops", "name": "The Desktop — Operations", "color": "#4F6DF5" },
+    { "id": "desktop-marketing", "name": "The Desktop — Marketing", "color": "#9B59F5" },
+    { "id": "naturally-creative", "name": "Naturally Creative", "color": "#2FA57A" },
+    { "id": "personal", "name": "Personal", "color": "#E8873A" }
+  ],
+  "day": {
+    "morning_block": { "start": "05:30", "end": "08:00", "label": "Win the Morning — training, breakfast, no work" },
+    "work_hours": { "start": "08:30", "end": "17:00" },
+    "shutdown": "17:30",
+    "default_estimate_mins": 30,
+    "focus_block_mins": 90
+  },
+  "principles": [
+    "Win the Morning, Win the Day",
+    "Healthy Mind, Healthy Body, Healthy Business"
+  ]
+}
